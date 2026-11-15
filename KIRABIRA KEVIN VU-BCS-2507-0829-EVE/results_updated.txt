@@ -1,0 +1,13 @@
+1001|John|Mugisha|22/U/1001|65|C
+1002|Mary|Nabirye|22/U/1002|85|A
+1003|Peter|Okello|22/U/1003|72|B
+1004|Sarah|Namukasa|22/U/1004|90|A
+1005|David|Ouma|22/U/1005|48|F
+1006|Grace|Achieng|22/U/1006|77|B
+1007|James|Kato|22/U/1007|55|D
+1008|Ruth|Nankya|22/U/1008|85|A
+1009|Paul|Ssemanda|22/U/1009|63|C
+1010|Esther|Akello|22/U/1010|92|A
+10011|Daniel|Mwesigwa|22/U/1011|70|B
+10012|Alice|Nansubuga|22/U/1012|59|D
+10013|Kirabira |Kevin|22/U/1013|82|A
